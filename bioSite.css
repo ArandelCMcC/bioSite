@@ -4,8 +4,8 @@ body {
 }
 
 header {
-    background-color: blue;
-    color: white;
+    background-color: navy;
+    color: orange;
     padding: 20px;
     text-align: center;
 }
@@ -15,6 +15,7 @@ h1 {
 }
 
 #navbar {
+    
     overflow: hidden;
     background-color: orange;
     border-bottom: 15px solid gold;
@@ -61,7 +62,7 @@ h1 {
 }
 
 footer {
-    background-color: gold;
+    background-color: orange;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -77,7 +78,7 @@ footer p {
 
 footer a {
     text-decoration: none;
-    color: blue;
+    color: royalblue;
 }
 
 footer a:hover {
